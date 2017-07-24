@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chłopaki z baraków - Soundboard</string>
+    <string name="action_again">Spróbuj ponownie</string>
+    <string name="set_sound_ringtone">Ustaw jako dzwonek</string>
+    <string name="set_sound_notification">Ustaw jako dźwięk powiadomień</string>
+    <string name="set_sound_alarm">Ustaw jako alarm</string>
+    <string name="info_title_permission_required">Uprawnienia wymagane</string>
+    <string name="info_message_ringtone">Dzwonek został zmieniony</string>
+    <string name="info_message_notification">Dźwięk powiadomień został zmieniony</string>
+    <string name="info_message_alarm">Dzwonek alarmu został zmieniony</string>
+    <string name="info_message_error">Ups przeparszamy, Coś poszło nie tak :(</string>
+    <string name="info_message_permission_required">Niektóre uprawnienia potrzebne do poprawnego działania aplikacji odrzucono. Otwórz ustawienia, przejdź do uprawnień i ustaw je.</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="item_menu_all">Wszyscy</string>
+    <string name="send_by_messanger">Wyślij przez messanger</string>
+</resources>

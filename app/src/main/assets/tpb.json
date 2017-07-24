@@ -1,0 +1,505 @@
+{
+	"characters" :
+	[
+		{
+			"name" : "Bubbles",
+			"sounds" :
+			[
+				{
+					"title" : "Ale tekst puścił!",
+					"mp3" : "bubbles__ale_tekst_puscil"
+				},
+				{
+					"title" : "Budzisz sie i jesteś sam",
+					"mp3" : "bubbles__budzisz_sie_i_jestes_sam"
+				},
+				{
+					"title" : "Co jest kurde?",
+					"mp3" : "bubbles__gosciu_ma_koszulke"
+				},
+				{
+					"title" : "Idź posprzataj śmieci parobasie!",
+					"mp3" : "bubbles__idz_posprzataj_smieci_parobasie"
+				},
+				{
+					"title" : "Kumple sporo mogą",
+					"mp3" : "bubbles__kumple_sporo_moga"
+				},
+				{
+					"title" : "Mózg Rickiego",
+					"mp3" : "bubbles__mozg_rickiego"
+				},
+				{
+					"title" : "Musimy pogadać!",
+					"mp3" : "bubbles__musimy_pogadac"
+				},
+				{
+					"title" : "Nie twój interes!",
+					"mp3" : "bubbles__nie_twoj_interes"
+				},
+				{
+					"title" : "Nie przejmuj się, to tylko ja!",
+					"mp3" : "bubbles__to_tylko_ja_twoj_kumpel"
+				},
+				{
+					"title" : "Umiesz czytać synu?",
+					"mp3" : "bubbles__umiesz_szybko_spieprzac"
+				}
+			]
+		},
+		{
+			"name" : "Cory",
+			"sounds" : 
+			[
+				{
+					"title" : "Będzie mega impreza",
+					"mp3" : "cory__bedzie_mega_impreza"
+				}
+			]
+		},
+		{
+			"name" : "Cyrus",
+			"sounds" : 
+			[
+				{
+					"title" : "Dawaj szlugi albo kulka pod żebro",
+					"mp3" : "cyrus__dawaj_szlugi_albo_kulka_pod_zebro"
+				},
+				{
+					"title" : "Gówniane baraki",
+					"mp3" : "cyrus__gowniane_baraki"
+				},
+				{
+					"title" : "Ja tu rządze staruszku",
+					"mp3" : "cyrus__ja_tu_rzadze_staruszku"
+				},
+				{
+					"title" : "Łapy przy sobie wieśniaku",
+					"mp3" : "cyrus__lapy_przy_sobie_wiesniaku"
+				},
+				{
+					"title" : "Spadam mam robote 1",
+					"mp3" : "cyrus__spadam_mam_robote_1"
+				},
+				{
+					"title" : "Spadówa mam robote 2",
+					"mp3" : "cyrus__spadowa_mam_robote_2"
+				}
+			]
+		},
+		{
+			"name" : "Hampton",
+			"sounds" : 
+			[
+				{
+					"title" : "Od baraku do baraku",
+					"mp3" : "hampton__od_baraku_do_baraku"
+				}
+			]
+		},
+		{
+			"name" : "Jroc",
+			"sounds" : 
+			[
+				{
+					"title" : "Hamburgerowy latinolover",
+					"mp3" : "jroc__hamburgerowy_latinolower"
+				},
+				{
+					"title" : "Jejeje nazywam się J_ROC",
+					"mp3" : "jroc__jeje_nazywam_sie_j_roc"
+				},
+				{
+					"title" : "Jest ryfa stary",
+					"mp3" : "jroc__jest_ryfa_stary"
+				},
+				{
+					"title" : "Mam ci przynieść 15 cheesburgerów",
+					"mp3" : "jroc__mam_ci_przyniesc_15_cheesburgerow"
+				},
+				{
+					"title" : "Obciachowe spodnie",
+					"mp3" : "jroc__obciachowe_spodnie"
+				},
+				{
+					"title" : "Kolo w zielonym t-shircie",
+					"mp3" : "jroc__rap1"
+				},
+				{
+					"title" : "Wal sie na swoje gołe cyce badziewiarzu",
+					"mp3" : "jroc__wal_sie_na_swoje_gole_cyce_badziewiarzu"
+				},
+				{
+					"title" : "Wyluzuj! Brygada wkracza do akcji",
+					"mp3" : "jroc__wyluzuj_brygada_wkracza_do_akcji"
+				}
+			]
+		},
+		{
+			"name" : "Julian",
+			"sounds" : 
+			[
+				{
+					"title" : "Bubbles, przyjdź do mnie na drineczka",
+					"mp3" : "julian__bubbles_chodz_do_mnie_na_drineczka"
+				},
+				{
+					"title" : "Co z moim barakiem ?",
+					"mp3" : "julian__co_z_moim_barakiem"
+				},
+				{
+					"title" : "Przyniosłem ci hot-dogi i wóde",
+					"mp3" : "julian__hotdogi_vode"
+				},
+				{
+					"title" : "Jesteś mistrzem mistrzuniów",
+					"mp3" : "julian__jestes_mistrzem_mistrzuniow"
+				},
+				{
+					"title" : "Jesteśmy dla siebie jak ludzie",
+					"mp3" : "julian__jestesmy_dla_siebie_jak_ludzie"
+				},
+				{
+					"title" : "Mam awarię",
+					"mp3" : "julian__mam_awarie_pies_pocisk"
+				},
+				{
+					"title" : "Naprawde szacuneczek",
+					"mp3" : "julian__naprawde_szacuneczek"
+				},
+				{
+					"title" : "Naszczaj Laheyowi do wozu!",
+					"mp3" : "julian__naszczaj_laheyowi_do_wozu"
+				},
+				{
+					"title" : "O kurdee!",
+					"mp3" : "julian__o_kurdeee"
+				},
+				{
+					"title" : "Ale się roztyła",
+					"mp3" : "julian__roztyla_sie"
+				},
+				{
+					"title" : "20 Radiów",
+					"mp3" : "julian__supermarket_20_radiow"
+				},
+				{
+					"title" : "Ten pan ma kulke w pośladku",
+					"mp3" : "julian__ten_pan_mam_kulke_w_posladku"
+				},
+				{
+					"title" : "Wpadniesz na drinka i jointy?",
+					"mp3" : "julian__wpadniesz_na_drinka_i_jointy"
+				}
+			]
+		},
+		{
+			"name" : "Lehey",
+			"sounds" : 
+			[
+				{
+					"title" : "3, 2, 1 Bingo!",
+					"mp3" : "lahey__321_bingo"
+				},
+				{
+					"title" : "Chłopcy żarty na bok",
+					"mp3" : "lahey__chlopcy_zarty_na_bok"
+				},
+				{
+					"title" : "Co powie kurator?",
+					"mp3" : "lahey__co_powie_kurator"
+				},
+				{
+					"title" : "Do wozu tłuściochu!",
+					"mp3" : "lahey__do_wozu_tlusciochu"
+				},
+				{
+					"title" : "Gówniana lina",
+					"mp3" : "lahey__gowienna_lina"
+				},
+				{
+					"title" : "Inne plany",
+					"mp3" : "lahey__inne_plany_ide_sie_upic"
+				},
+				{
+					"title" : "Któż nigdy nie wypił kieliszek za dużo?",
+					"mp3" : "lahey__kto_nigdy_nie_wypil_za_duzo"
+				},
+				{
+					"title" : "Nie słuchaj go, jesteś piękny",
+					"mp3" : "lahey__nie_sluchaj_go"
+				},
+				{
+					"title" : "Niewiem co te cwaniaczki kombinują",
+					"mp3" : "lahey__nie_wiem_co_te_cwaniaczki_kombinuja"
+				},
+				{
+					"title" : "Pewnie nieznasz?",
+					"mp3" : "lahey__pewnie_nieznasz"
+				},
+				{
+					"title" : "Po drodze skocz do sklepu",
+					"mp3" : "lahey__skocz_do_sklepu_drinka"
+				},
+				{
+					"title" : "Spytaj mnie, no spytaj!",
+					"mp3" : "lahey__spytaj_mnie"
+				}
+			]
+		},
+		{
+			"name" : "Lucy",
+			"sounds" : 
+			[
+				{
+					"title" : "Na kogo jeszcze moge liczyć?",
+					"mp3" : "lucy__nawet_nie_uprawia_trawy"
+				}
+			]
+		},
+		{
+			"name" : "Randy",
+			"sounds" : 
+			[
+				{
+					"title" : "Wyjątkowy przygłup",
+					"mp3" : "randy__wyjatkowy_przyglup"
+				},
+				{
+					"title" : "Zjazd frajerów",
+					"mp3" : "randy__zjazd_frajerow"
+				}
+			]
+		},
+		{
+			"name" : "Ray",
+			"sounds" : 
+			[
+				{
+					"title" : "Kto wypił moja wóde?",
+					"mp3" : "ray__kto_wypil_moja_vode"
+				}
+			]
+		},
+		{
+			"name" : "Ricky",
+			"sounds" :
+			[
+				{
+					"title" : "Ale umiesz mielić ozorem!",
+					"mp3" : "ricky__ale_umiesz_mielic_ozorem"
+				},
+				{
+					"title" : "Ale z ciebie fiutek!",
+					"mp3" : "ricky__ale_z_ciebie_fiutek"
+				},
+				{
+					"title" : "Biedronki",
+					"mp3" : "ricky__biedronki"
+				},
+				{
+					"title" : "Bujaj wora Julian!",
+					"mp3" : "ricky__bujaj_wora_julian"
+				},
+				{
+					"title" : "Chora jazda, chce tylko 5 baksów!",
+					"mp3" : "ricky__chce_tylko_5_baksow"
+				},
+				{
+					"title" : "Chipsy jalapeno",
+					"mp3" : "ricky__chipsy_jalapeno"
+				},
+				{
+					"title" : "Przywieź mi ze sklepu chipsy i kiełbase",
+					"mp3" : "ricky__chipsy_kurczakowe_kielbasa"
+				},
+				{
+					"title" : "Co powiesz? Chcesz się chajtnąć?",
+					"mp3" : "ricky__co_powiesz_chcesz_sie_chajtnac"
+				},
+				{
+					"title" : "Dasz mi drineczka?",
+					"mp3" : "ricky__dasz_mi_drineczka"
+				},
+				{
+					"title" : "Dawaj fajki Gordon",
+					"mp3" : "ricky__dawaj_fajki_gordon"
+				},
+				{
+					"title" : "Dostałem kulke!",
+					"mp3" : "ricky__dostalem_kulke_ci_dwaj_to_debile"
+				},
+				{
+					"title" : "Ostrzegam tylko, że dziś się narąbie",
+					"mp3" : "ricky__dzis_sie_narabie"
+				},
+				{
+					"title" : "Fajki już!",
+					"mp3" : "ricky__fajki_juz"
+				},
+				{
+					"title" : "Gdzie jest kiełbasa?",
+					"mp3" : "ricky__gdzie_jest_kielbasa"
+				},
+				{
+					"title" : "Patrzcie! Tym sie musze zajmować w robocie",
+					"mp3" : "ricky__glupiej_robocie"
+				},
+				{
+					"title" : "Idź i coś mu rozwal Randy!",
+					"mp3" : "ricky__idz_i_mu_cos_rozpieprz"
+				},
+				{
+					"title" : "Kłade na to lache!",
+					"mp3" : "ricky__klade_na_to_lache_mieszkal_na_ulicy"
+				},
+				{
+					"title" : "Kurde faja!",
+					"mp3" : "ricky__kurde_faja"
+				},
+				{
+					"title" : "Kurde faja!",
+					"mp3" : "ricky__kurde_faja"
+				},
+				{
+					"title" : "Kurde faja! 2",
+					"mp3" : "ricky__kurde_faja2"
+				},
+				{
+					"title" : "Kurde faja, cały towar!",
+					"mp3" : "ricky__kurde_faja_jak_to_sie_stalo"
+				},
+				{
+					"title" : "Kurde faja, mamy problem!",
+					"mp3" : "ricky__kurde_faja_mamy_problem"
+				},
+				{
+					"title" : "Kurde, nie wierze!",
+					"mp3" : "ricky__kurde_nie_wierze"
+				},
+				{
+					"title" : "Kwantaranne",
+					"mp3" : "ricky__kwantaranne"
+				},
+				{
+					"title" : "Lepiej sie bujaj na swoją wioche!",
+					"mp3" : "ricky__lepiej_sie_bujaj_wioche"
+				},
+				{
+					"title" : "Wypadki się zdarzają",
+					"mp3" : "ricky__napijesz_nacpasz_wypadek"
+				},
+				{
+					"title" : "Nie moge! nie rozumiesz?",
+					"mp3" : "ricky__nie_moge_wykrwawie_sie_mam_dziure_w_dupie"
+				},
+				{
+					"title" : "Nie umiesz spływać?",
+					"mp3" : "ricky__nie_umiesz_splywac"
+				},
+				{
+					"title" : "Nieziemski debil",
+					"mp3" : "ricky__nieziemski_debil"
+				},
+				{
+					"title" : "Numer 1, wsadź sobie w dupe",
+					"mp3" : "ricky__numer_wsadz_sobie_w_dupe"
+				},
+				{
+					"title" : "O w morde!",
+					"mp3" : "ricky__o_w_morde"
+				},
+				{
+					"title" : "Ojciec znów mi wyżarł kiełbase",
+					"mp3" : "ricky__ojciec_zjadl_mi_kielbase"
+				},
+				{
+					"title" : "Otwieraj złamasie!",
+					"mp3" : "ricky__otwieraj_zlamasie_spale_bude"
+				},
+				{
+					"title" : "Potrzebuje paru rzeczy",
+					"mp3" : "ricky__potrzebuje_paru_rzeczy"
+				},
+				{
+					"title" : "Przestać łamać prawo",
+					"mp3" : "ricky__przestac_lamac_prawo"
+				},
+				{
+					"title" : "Puk Puk, o dwóch gości za dużo!",
+					"mp3" : "ricky__pup_puk_dwoch_gosci_za_duzo"
+				},
+				{
+					"title" : "Ręce za głowe, i świńskim truchtem stąd!",
+					"mp3" : "ricky__rece_za_glowe_swinskim_truchtem"
+				},
+				{
+					"title" : "Siema parobasy!",
+					"mp3" : "ricky__siema_parobasy"
+				},
+				{
+					"title" : "Stary skocz do sklepu",
+					"mp3" : "ricky__skocz_do_sklepu"
+				},
+				{
+					"title" : "Stary wiem że masz stres",
+					"mp3" : "ricky__stres_upijemy_sie_paluszki_z_kurczaka"
+				},
+				{
+					"title" : "Wal sie na ryja stary",
+					"mp3" : "ricky__wal_sie_na_ryja_stary"
+				},
+				{
+					"title" : "Walcie się na cyce, wszyscy!",
+					"mp3" : "ricky__walcie_sie_na_cyce_wszyscy"
+				},
+				{
+					"title" : "Wyluzuj troche buraku",
+					"mp3" : "ricky__wyluzuj_troche_buraku"
+				},
+				{
+					"title" : "Wal sie na cyce kapusiu!",
+					"mp3" : "ricky__wyskakuj_ze_spodni"
+				},
+				{
+					"title" : "Wzór osobowy",
+					"mp3" : "ricky__wzor_osobowy"
+				},
+				{
+					"title" : "Znikaj stąd Randy",
+					"mp3" : "ricky__znikaj_stad_randy"
+				}
+			]
+		},
+		{
+			"name" : "Trevor",
+			"sounds" : 
+			[
+				{
+					"title" : "Ricky nawali się jak meserszmit",
+					"mp3" : "trevor__ricky_sie_nawali_jak_meserszmit"
+				}
+			]
+		},
+		{
+			"name" : "Trinity",
+			"sounds" : 
+			[
+				{
+					"title" : "Strzeliłam tacie w pupe",
+					"mp3" : "trinity__strzelilam_tacie_w_pupe"
+				}
+			]
+		},
+		{
+			"name" : "Tyrone",
+			"sounds" : 
+			[
+				{
+					"title" : "Wszyscy za wszystkich",
+					"mp3" : "tyrone__wszyscy_za_wszystkich"
+				}
+			]
+		}
+	]	
+}

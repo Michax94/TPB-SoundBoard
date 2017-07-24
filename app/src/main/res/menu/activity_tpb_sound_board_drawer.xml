@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_menu_people"
+            android:title="@string/item_menu_all" />
+        <item
+            android:id="@+id/nav_ricky"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Ricky" />
+        <item
+            android:id="@+id/nav_julian"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Julian" />
+        <item
+            android:id="@+id/nav_bubbles"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Bubbles" />
+        <item
+            android:id="@+id/nav_cory"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Cory" />
+        <item
+            android:id="@+id/nav_trevor"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Trevor" />
+        <item
+            android:id="@+id/nav_lehey"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Lehey" />
+        <item
+            android:id="@+id/nav_randy"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Randy" />
+        <item
+            android:id="@+id/nav_lucy"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Lucy" />
+        <item
+            android:id="@+id/nav_trinity"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Trinity" />
+        <item
+            android:id="@+id/nav_jroc"
+            android:icon="@drawable/ic_menu_person"
+            android:title="J-roc" />
+        <item
+            android:id="@+id/nav_tyrone"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Tyrone" />
+        <item
+            android:id="@+id/nav_ray"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Ray" />
+        <item
+            android:id="@+id/nav_cyrus"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Cyrus" />
+        <item
+            android:id="@+id/nav_hampton"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Hampton" />
+    </group>
+
+</menu>
